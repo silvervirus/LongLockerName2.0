@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "a6B1Nh+afvbvtyZGyHgoXM3Q/snUR6MXTywT61H0QHv2Q6qxP/SKBGCVMfmTWrFgw8F0fGBWcrETJMxxpQ7F5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Randy\\SubnauticaModSystem-master\\SubnauticaModSystem\\LongLockerNames\\LongLockerNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.2\\microsoft.netframework.referenceassemblies.net48.1.0.2.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\polysharp\\1.13.2\\polysharp.1.13.2.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\subnautica.gamelibs\\71288.0.0-r.0\\subnautica.gamelibs.71288.0.0-r.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\subnautica.nautilus\\1.0.0-pre.29\\subnautica.nautilus.1.0.0-pre.29.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Cookay\\.nuget\\packages\\unityengine.modules\\2019.4.36\\unityengine.modules.2019.4.36.nupkg.sha512"
+  ],
+  "logs": []
+}

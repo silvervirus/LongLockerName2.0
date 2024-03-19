@@ -1,0 +1,10 @@
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.Properties.Resources.resources
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.csproj.GenerateResource.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\bin\Debug\LongLockerNames.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\bin\Debug\LongLockerNames.pdb
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\LongLockerNames\obj\Debug\LongLockerNames.pdb
